@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Mon May 17 09:29:20 2021
-
-@author: 13271
+@author: libenfan
 """
 
 import torch
