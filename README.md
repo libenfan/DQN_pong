@@ -1,9 +1,9 @@
 # DQN_pong
 use DQN(pytorch) to play pong 
 
-enviroment:
+environment:
 gym  pytorch
 
 wrappers.py:
-wrap the enviroment for pong
+wrap the environment for pong
 
